@@ -1,10 +1,11 @@
-Hello!
-This is a comparitively more complex app that I have designed as a project. This project was not my own due to my lack of knowledge of HTML and CSS. This project was created step-by-step in the video lectures of an online javascript course y the instructor. Once I saw the videos, I started coding the app on my own. Only the javascript portion was coded by
-me. The HTML and CSS files were provided by the instructor of the online course. Although the the instructor demonstrated how to create the app in Javascript,
-I did not refer to the lectures while creating it myself. I used my own logics and it turned out to work perfectly. 
+This is a comparitively more complex app that I have designed as a project for the javascript course. The javascript of this project was coded by me in about a day. The logic used is one hundred percent my own. The HTML and CSS were provided by the instructor, but this time, I did make some changes to the HTML according to what my logic demanded. This app reinforced my knowledge of importing/exporting data to/from models and also allowed me to get hands-on experience with modern-day web development tools. This is the toughest javascipt project I have perfectly completed on my own so far and gives me a sense of confidence on the knowledge I have gained.
 
-I provide the files of my project. 
+I, once again declare that this app is not my own but does prove to be a good demonstration of my programming skills.  
+
+Directions:-
 
 To use the app, you will node.js installed. Once you have installed and extracted the files for this app, change your directory to the Forkify-js-couse-project folder on the command line and type in 'npm install' to get all the dependencies. Make sure your default browser is Chrome. Then type in 'npm run start'(this is necessary to load all svg files which is not supported by Chrome). This will start the app!
  
-I must say, after being successful in creating an app in a way quite different from the instructor and still achieving all I wanted to, I have become very confident in my ability to solve complex problems.
+About the app:-
+
+The Forkify app uses a food-api which has a bunch of select keywords which when entered in the search box, return 28 recipes related to that keyword. The user can select a recipe, view the ingredients needed to make a specific number of servings and then add these ingredients to a shopping list. This shopping list can also be mutated to some extent. Liked recipes are stored in the local storage of the browser so that they are present even when the browser is reloaded. Links to directions of preparation are provided with each recipe. 
