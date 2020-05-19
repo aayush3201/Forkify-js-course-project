@@ -1,5 +1,5 @@
 Hello!
-This is a simple app that I have designed as a project. This project was not my own due to my lack of knowledge of HTML and CSS. This project was created step-by-step in the video lectures of an online javascript course y the instructor. Once I saw the videos, I started coding the app on my own. Only the javascript portion was coded by
+This is a comparitively more complex app that I have designed as a project. This project was not my own due to my lack of knowledge of HTML and CSS. This project was created step-by-step in the video lectures of an online javascript course y the instructor. Once I saw the videos, I started coding the app on my own. Only the javascript portion was coded by
 me. The HTML and CSS files were provided by the instructor of the online course. Although the the instructor demonstrated how to create the app in Javascript,
 I did not refer to the lectures while creating it myself. I used my own logics and it turned out to work perfectly. 
 I provide the files of my project. 
