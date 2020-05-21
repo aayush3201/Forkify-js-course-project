@@ -1,10 +1,10 @@
-This is a comparitively more complex app that I have designed as a project for the javascript course. The javascript of this project was coded by me in about a day. The logic used is one hundred percent my own. The HTML and CSS were provided by the instructor, but this time, I did make some changes to the HTML according to what my logic demanded. This app reinforced my knowledge of importing/exporting data to/from models and also allowed me to get hands-on experience with modern-day web development tools. This is the toughest javascipt project I have perfectly completed on my own so far and gives me a sense of confidence on the knowledge I have gained.
+This is a comparitively more complex app that I have designed as a project for the javascript course. The javascript of this project was coded by me in about a day. The logic used is one hundred percent my own. The HTML and CSS were provided by the instructor, but this time, I did make some changes to the HTML according to what my logic demanded. This app reinforced my knowledge of importing/exporting data to/from models and also allowed me to get hands-on experience with modern-day web development tools. This project gives me a sense of confidence on the knowledge I have gained since it is more complicated than the other two projects.
 
-I, once again declare that this app is not my own but does prove to be a good demonstration of my programming skills.  
+I once again declare that this app is not my own but does prove to be a good demonstration of my programming skills.  
 
 Directions:-
 
-To use the app, you will node.js installed. Once you have installed and extracted the files for this app, change your directory to the Forkify-js-couse-project folder on the command line and type in 'npm install' to get all the dependencies. Make sure your default browser is Chrome. Then type in 'npm run start'(this is necessary to load all svg files which is not supported by Chrome). This will start the app!
+To use the app, you will need node.js installed. Once you have installed and extracted the files for this app, change your directory to the Forkify-js-course-project folder on the command line and type in 'npm install' to get all the dependencies. Make sure your default browser is Chrome. Then type in 'npm run start' to load the app with the devServer (this is necessary to load all svg files which is not supported by Chrome). This will start the app!
  
 About the app:-
 
