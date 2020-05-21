@@ -4,7 +4,7 @@ I once again declare that this app is not my own but does prove to be a good dem
 
 Directions:-
 
-To use the app, you will need node.js installed. Once you have installed and extracted the files for this app, change your directory to the Forkify-js-course-project folder on the command line and type in 'npm install' to get all the dependencies. Make sure your default browser is Chrome. Then type in 'npm run start' to load the app with the devServer (this is necessary to load all svg files which is not supported by Chrome). This will start the app!
+To use the app, you will need node.js installed. Once you have installed and extracted the files for this app, change your directory to the Forkify-js-course-project folder on the command line and type in 'npm install' to get all the dependencies. Make sure your default browser is Chrome. Once the dependencies are installed, type in 'npm run start' to load the app with the devServer (this is necessary to load all .svg files which is not supported by Chrome). This will start the app!
  
 About the app:-
 
